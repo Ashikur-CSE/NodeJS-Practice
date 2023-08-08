@@ -1,0 +1,19 @@
+{
+  "name": "lesson-05-external-modules",
+  "version": "1.0.0",
+  "description": "this package is for testing purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "movie",
+    "year",
+    "cast"
+  ],
+  "author": "Ashikur Rahman",
+  "license": "ISC",
+  "dependencies": {
+    "random-movie-names": "^1.0.2"
+  }
+}
